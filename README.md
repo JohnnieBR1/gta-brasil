@@ -1,4 +1,4 @@
-﻿
+!Atenção!﻿ Esta página é um fork do projeto original! Se você veio á procura do projeto do GTA Brasil, considere ir para a página oficial.
 <h3 align="center">
 	<img src="https://user-images.githubusercontent.com/106138998/173198102-d3df4752-456f-40b1-ac1f-0ba212f6e848.png" width="400" alt="Logo"/><br/>
 	GTA Brasil 🇧🇷
