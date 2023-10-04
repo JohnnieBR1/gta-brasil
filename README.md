@@ -1,10 +1,13 @@
-!Atenção!﻿ Esta página é um fork do projeto original! Se você veio á procura do projeto do GTA Brasil, considere ir para a página oficial.
+</i>
+<i align="center">
+2023 - Devido ao afastamento de muitas pessoas da equipe oficial do projeto, seja por razões pessoais, falta de motivação, e etc, o projeto oficial do GTA Brasil "morreu". Dado este triste fato, a equipe Vice Modding resolveu dar uma "sobre-vida" no projeto de maneira não oficial, publicando atualizações, corrigindo bugs e melhorando o funcionamento do projeto em sí. Considere visitar a [Página Oficial do GitHub](https://github.com/Vice-Modding/gta-brasil). Este projeto é um fork e está sob a mesma licença do GTA Brasil.
+</i>
 <h3 align="center">
 	<img src="https://user-images.githubusercontent.com/106138998/173198102-d3df4752-456f-40b1-ac1f-0ba212f6e848.png" width="400" alt="Logo"/><br/>
 	GTA Brasil 🇧🇷
 </h3>
 <h6 align="center">
-  <a href="https://pulseclub.net/resources/gta-brasil.30/">Tópico Oficial</a>
+  <a href="https://github.com/pulse-club/gta-brasil/tree/main">Página Oficial (GitHub)</a>
   ·
   <a href="https://github.com/Pulse-Club/GTA-Brasil/blob/main/MANUAL.md">Manual</a>
   ·
@@ -38,7 +41,7 @@
 * Novos veículos substituindo a maior parte do trânsito do jogo.
 * Mitos, lendas e easter eggs para encontrar.
 * Novos pedestres.
-* Vários [opcionais](https://tcgtabrasil.wixsite.com/tcgtabrasil/downloads) para incrementar sua experiência (sons ambiente e rádio, etc)
+* Vários [opcionais](https://tcgtabrasil.wixsite.com/tcgtabrasil/downloads) para incrementar sua experiência (sons ambiente e rádio, etc.
 
 ### 📋 Regras de Uso
 
