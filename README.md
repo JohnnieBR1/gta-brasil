@@ -2,7 +2,7 @@
 <i align="center">
 2023 - Devido ao afastamento de muitas pessoas da equipe oficial do projeto, seja por razões pessoais, falta de motivação, e etc, o projeto oficial do GTA Brasil "morreu". 
 Dado este triste fato, a equipe Vice Modding resolveu dar uma "sobre-vida" no projeto de maneira não oficial, publicando atualizações, corrigindo bugs e melhorando o funcionamento do projeto em sí. 
-	Considere visitar a [Página Oficial do GitHub](https://github.com/Vice-Modding/gta-brasil). Este projeto é um fork e está sob a mesma licença do GTA Brasil.
+Considere visitar a Página Oficial do GitHub. Este projeto é um fork e está sob a mesma licença do GTA Brasil.
 </i>
 <h3 align="center">
 	<img src="https://user-images.githubusercontent.com/106138998/173198102-d3df4752-456f-40b1-ac1f-0ba212f6e848.png" width="400" alt="Logo"/><br/>
